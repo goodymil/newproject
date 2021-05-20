@@ -5,7 +5,8 @@
      <title>сайт</title>
 </head>
 <body>
-	<header align="left" style="color:#000000;font-size:24px">app.creation
+	<header>
+		<div align="left" style="color:#000000;font-size:24px">app.creation</div>>
 		<nav align="right">
 			<a href="" style="color:#000000;font-size:14px">start</a>
 			<a href="" style="color:#000000;font-size:14px">services</a>
@@ -15,18 +16,16 @@
 		</nav>
 	</header>
 	<section>
-		<div align="left" style="font-size:50px">Building an App</div>
-		<div align="left" style="font-size:50px">Without Design</div> 
-		<div align="left" style="font-size:50px">Expertise</div>
+		<main></main>
+		<h1 align="left" style="font-size:50px">Building an App Without Design Expertise</h1>
 		<aside>
 		    <p>
 		     I help tech startups design better digital products without hiring a full-time designer
 		    </p>
 		</aside>
-		<footer>
 		   <button style="color:#0000FF;font-size:14px">Schedule free consultation</button>
-		</footer>
-		<p><img src="/home/img/frame.png" align="right"></p>
+		</main>
+		<div><img src="/home/img/frame.png" align="right"></div>
 	</section>
 </body>
 </html>

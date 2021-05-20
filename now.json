@@ -6,26 +6,25 @@
 </head>
 <body>
 	<header>
-		<div align="left" style="color:#000000;font-size:24px">app.creation</div>>
-		<nav align="right">
-			<a href="" style="color:#000000;font-size:14px">start</a>
-			<a href="" style="color:#000000;font-size:14px">services</a>
-			<a href="" style="color:#000000;font-size:14px">about</a>
-			<a href="" style="color:#000000;font-size:14px">blog</a>
-			<a href="" style="color:#000000;font-size:14px">contuct us</a>
+		<div>app.creation</div>>
+		<nav>
+			<a>start</a>
+			<a>services</a>
+			<a>about</a>
+			<a>blog</a>
+			<a>contuct us</a>
 		</nav>
 	</header>
 	<section>
-		<main></main>
-		<h1 align="left" style="font-size:50px">Building an App Without Design Expertise</h1>
-		<aside>
+		<main>
+		<h1>Building an App Without Design Expertise</h1>
 		    <p>
 		     I help tech startups design better digital products without hiring a full-time designer
 		    </p>
-		</aside>
-		   <button style="color:#0000FF;font-size:14px">Schedule free consultation</button>
+		   <button>Schedule free consultation</button>
 		</main>
-		<div><img src="/home/img/frame.png" align="right"></div>
+		<div><img></div>
 	</section>
 </body>
 </html>
+

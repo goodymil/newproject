@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+     <title>сайт</title>
+</head>
+<body>
+	<header>
+		<div align="left" style="color:#000000;font-size:24px">app.creation</div>>
+		<nav align="right">
+			<a href="" style="color:#000000;font-size:14px">start</a>
+			<a href="" style="color:#000000;font-size:14px">services</a>
+			<a href="" style="color:#000000;font-size:14px">about</a>
+			<a href="" style="color:#000000;font-size:14px">blog</a>
+			<a href="" style="color:#000000;font-size:14px">contuct us</a>
+		</nav>
+	</header>
+	<section>
+		<main></main>
+		<h1 align="left" style="font-size:50px">Building an App Without Design Expertise</h1>
+		<aside>
+		    <p>
+		     I help tech startups design better digital products without hiring a full-time designer
+		    </p>
+		</aside>
+		   <button style="color:#0000FF;font-size:14px">Schedule free consultation</button>
+		</main>
+		<div><img src="/home/img/frame.png" align="right"></div>
+	</section>
+</body>
+</html>
